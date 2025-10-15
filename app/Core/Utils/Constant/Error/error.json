@@ -1,0 +1,17 @@
+{
+    "user": {
+        "EXCEPTION": {
+        },
+        "QUERY": {
+            "001": "Lỗi xảy ra khi lấy role user: userService->getRoleUser"
+        },
+        "SYSTEM": {
+        },
+        "SERVICE": {
+        },
+        "API": {
+        },
+        "UNKNOWN": {
+        }
+    }
+}
